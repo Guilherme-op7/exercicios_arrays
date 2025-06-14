@@ -1,14 +1,9 @@
----
-
 📚 Exercícios de JavaScript - Arrays (Professor Bruno)
-
-Bem-vindo ao repositório! Aqui estão os exercícios de fixação de Arrays em JavaScript, feitos durante as aulas com o professor Bruno.
+---
+Bem-vindo ao repositório! Aqui estão os exercícios de fixação de Arrays em JavaScript, feitos pelo professor Bruno, para maior fixação do conteúdo.
 
 O objetivo desses exercícios é praticar e reforçar o conteúdo aprendido sobre arrays e lógica de programação, usando o JavaScript como linguagem base.
-
-
 ---
-
 ✅ Conteúdo Praticado
 
 Criação de arrays
@@ -20,18 +15,11 @@ Laços de repetição (for, while, etc)
 Condicionais aplicadas em arrays
 
 Exercícios de lógica envolvendo armazenamento e manipulação de dados em lista
-
-
-
 ---
-
 🖥️ Como rodar os exercícios
 
 1. Clone o repositório:
-
-
-
-git clone 
+git clone https://github.com/Guilherme-op7/exercicios_arrays.git
 
 2. Abra o projeto no VS Code ou outro editor de sua preferência.
 
